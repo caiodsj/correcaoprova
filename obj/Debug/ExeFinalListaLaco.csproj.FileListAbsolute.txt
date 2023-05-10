@@ -1,0 +1,8 @@
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\bin\Debug\ExeFinalListaLaco.exe.config
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\bin\Debug\ExeFinalListaLaco.exe
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\bin\Debug\ExeFinalListaLaco.pdb
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\obj\Debug\ExeFinalListaLaco.csproj.AssemblyReference.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\obj\Debug\ExeFinalListaLaco.csproj.SuggestedBindingRedirects.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\obj\Debug\ExeFinalListaLaco.csproj.CoreCompileInputs.cache
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\obj\Debug\ExeFinalListaLaco.exe
+C:\Users\caiod\OneDrive\Área de Trabalho\Caio\Programação\C# - Devs2Blu\ExeFinalListaLaco\ExeFinalListaLaco\obj\Debug\ExeFinalListaLaco.pdb
